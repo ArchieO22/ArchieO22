@@ -1,12 +1,12 @@
-## Hi there 👋
+
+## Hi, there! I’m Archana Ogirala 👋  
+### Data Analyst | Power BI Specialist
 
 <!--
 **ArchieO22/ArchieO22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, there! I’m Archana Ogirala 👋  
-### Data Analyst | Power BI Specialist
 
-I’m a Data Analyst with 7+ years of experience transforming raw data into meaningful insights that help organizations make smarter, faster decisions. My background blends **HRIS (Workday HCM, Reporting, Prism Analytics)**,**Healthcare**,**IT**, with **advanced analytics**, allowing me to support leadership with accurate reporting, automated dashboards, and actionable workforce insights.
+I’m a Data Analyst with 6+ years of experience transforming raw data into meaningful insights that help organizations make smarter, faster decisions. My background blends **HRIS (Workday HCM, Reporting, Prism Analytics)**,**Healthcare**,**IT**, with **advanced analytics**, allowing me to support leadership with accurate reporting, automated dashboards, and actionable workforce insights.
 
 I love building dashboards, solving data quality problems, and turning complex datasets into clear stories that drive business impact.
 
@@ -26,7 +26,7 @@ Recently, I’ve expanded into **AI‑powered analytics**, Microsoft Fabric, and
 Power BI (DAX, Power Query), Tableau, Excel (Advanced), QlikView, SSRS  
 
 **Databases & Languages:**  
-SQL, Snowflake, Python (Pandas, NumPy, Matplotlib, Seaborn), Workday Reporting, Prism Analytics  
+SQL, Snowflake, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, Workday Reporting, Prism Analytics  
 
 **HRIS & People Analytics:**  
 Workday HCM, Compensation & Benefits, HR Metrics (turnover, retention, DEI, headcount), HR Data Quality & Audits  
@@ -86,17 +86,16 @@ Reduced manual Excel reporting by 90% through automated financial dashboards.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning from Coursera:
 
-- Foundations in Healthcare Analytics by Skills Up from Coursera
+- Healthcare Data Analytics by Skills Up 
 - Microsoft Fabric by Microsoft
 - Generative AI for analytics  
+- Python & Predicative Modeling 
 
 ---
 
 ## 🤝 Let’s Connect
-
-📍 Atlanta, GA  
 🔗 LinkedIn: linkedin.com/in/archana-ogirala  
 📧 Email: ogiralavs@gmail.com  
 
