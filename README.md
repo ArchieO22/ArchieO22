@@ -10,7 +10,7 @@ I’m a Data Analyst with 6+ years of experience transforming raw data into mean
 
 I love building dashboards, solving data quality problems, and turning complex datasets into clear stories that drive business impact.
 
----
+---!>
 
 ## 🔍 About Me
 
@@ -26,7 +26,7 @@ Recently, I’ve expanded into **AI‑powered analytics**, Microsoft Fabric, and
 Power BI (DAX, Power Query), Tableau, Excel (Advanced), QlikView, SSRS  
 
 **Databases & Languages:**  
-SQL, Snowflake, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, Workday Reporting, Prism Analytics  
+SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, Workday Reporting, Prism Analytics  
 
 **HRIS & People Analytics:**  
 Workday HCM, Compensation & Benefits, HR Metrics (turnover, retention, DEI, headcount), HR Data Quality & Audits  
@@ -50,7 +50,14 @@ Dashboard Automation, KPI Design, Trend Analysis, Executive Reporting, Data Mode
 ## 🚀 My Project Portfolio
 
 ### 🟢 Completed Projects
-- **ShopEasy Marketing Analytics Dashboard (SQL, Python, Power BI)**  
+
+ - **Healthcare Project Integration & Analysis (Excel, SQL, Python — Coursera)**  
+  A structured healthcare analytics project focusing on data integration, cleaning, and KPI insights.
+
+ - **Customer Behavior Analysis (Python, SQL, Power BI)**  
+  Building a behavioral analytics model to understand customer patterns and improve decision‑making.
+  
+ - **ShopEasy Marketing Analytics Dashboard (SQL, Python, Power BI)**  
   Delivered a complete marketing analytics solution with dashboards, insights, and recommendations.
 
 ### **HR Analytics Dashboard (Excel • Power BI)**  
@@ -60,15 +67,13 @@ Turnover, retention, absenteeism, recruitment funnel, and DEI metrics automated 
 Reduced manual Excel reporting by 90% through automated financial dashboards.
 
 ### 🟡 Currently Working On
-- **Customer Behavior Analysis (Python, SQL, Power BI)**  
-  Building a behavioral analytics model to understand customer patterns and improve decision‑making.
+
 
 ### 🔵 Future Projects
-- **Healthcare Project Integration & Analysis (Excel, SQL, Python — Coursera)**  
-  A structured healthcare analytics project focusing on data integration, cleaning, and KPI insights.
-
 - **NovaTech Workforce Planning Dashboard Project (Excel, Power BI, Executive Brief)**  
   Workforce planning analysis including attrition, AI readiness, KPIs, and leadership recommendations.
+
+
 
 📢 *Stay tuned — more analytics projectss coming soon!*
 
