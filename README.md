@@ -5,104 +5,86 @@
 <!--
 **ArchieO22/ArchieO22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+About Me
+I’m a Data Analyst / Power BI Analyst with 6+ years of experience transforming raw data into meaningful insights that help organizations make smarter, faster decisions. My background blends HRIS (Workday HCM, Reporting, Prism Analytics), Healthcare, and IT, supported by strong skills in advanced analytics, data modeling, and dashboard automation.
 
-I’m a Data Analyst with 6+ years of experience transforming raw data into meaningful insights that help organizations make smarter, faster decisions. My background blends **HRIS (Workday HCM, Reporting, Prism Analytics)**,**Healthcare**,**IT**, with **advanced analytics**, allowing me to support leadership with accurate reporting, automated dashboards, and actionable workforce insights.
+I enjoy building dashboards, solving data quality challenges, and turning complex datasets into clear, actionable stories that drive business impact.
 
-I love building dashboards, solving data quality problems, and turning complex datasets into clear stories that drive business impact.
+What I Do
+I’ve worked across HR, Finance, Healthcare, and Operations — building automated dashboards, improving data accuracy, and supporting leadership with KPI reporting. I specialize in:
 
----!>
+People Analytics
 
-## 🔍 About Me
+HRIS Reporting (Workday HCM, Prism Analytics)
 
-I’ve spent my career working across HR, Finance, and Operations — building automated dashboards, improving data accuracy, and supporting leadership with KPI reporting. I specialize in **People Analytics**, **HRIS Reporting**,Healthcare and **Power BI dashboards** that reduce manual work and improve decision‑making.
+Healthcare & Operational Analytics
 
-Recently, I’ve expanded into **AI‑powered analytics**, Microsoft Fabric, and GenAI tools to build smarter, automated insights for HR and business teams.
+Power BI dashboard development
 
----
+SQL + Python data cleaning and analysis
 
-## 🛠️ Technical Skills
+Automated reporting and KPI design
 
-**Data & BI Tools:**  
-Power BI (DAX, Power Query), Tableau, Excel (Advanced), QlikView, SSRS  
+I’m also expanding into AI‑powered analytics, Microsoft Fabric, and GenAI tools to build smarter, automated insights for business teams.
 
-**Databases & Languages:**  
-SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), statistical analysis, Workday Reporting, Prism Analytics  
+Technical Skills
+Data & BI Tools:  
+Power BI (DAX, Power Query), Tableau, Excel (Advanced), QlikView, SSRS
 
-**HRIS & People Analytics:**  
-Workday HCM, Compensation & Benefits, HR Metrics (turnover, retention, DEI, headcount), HR Data Quality & Audits  
+Databases & Languages:  
+SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Statistical Analysis
+Workday Reporting, Prism Analytics
 
-**Other Strengths:**  
+HRIS & People Analytics:  
+Workday HCM, Compensation & Benefits, Turnover & Retention Metrics, DEI Analytics, HR Data Quality & Audits
+
+Other Strengths:  
 Dashboard Automation, KPI Design, Trend Analysis, Executive Reporting, Data Modeling
 
----
+Projects
+Healthcare Data Integration & Analysis (Excel, SQL, Python — Coursera)  
+Structured analytics project focusing on data cleaning, integration, and KPI insights.
 
-## 📊 What I Love Working On
+Customer Behavior Analysis (Python, SQL, Power BI)  
+Behavioral analytics model to understand customer patterns and improve decision‑making.
 
-- HR & Workforce, Healthcare, Marketing, Insurance Analytics 
-- Workday HCM Reporting & Prism Analytics  
-- Power BI dashboards that automate manual reporting  
-- SQL + Python pipelines for data cleaning & sentiment analysis  
-- AI‑powered analytics using Microsoft Fabric & GenAI  
-- Turning messy data into clean, actionable stories  
+ShopEasy Marketing Analytics Dashboard (SQL, Python, Power BI)  
+Complete marketing analytics solution with dashboards, insights, and recommendations.
 
----
+HR Analytics Dashboard (Excel, Power BI)  
+Automated turnover, retention, absenteeism, recruitment funnel, and DEI reporting.
 
-## 🚀 My Project Portfolio
-
-### 🟢 Completed Projects
-
- - **Healthcare Project Integration & Analysis (Excel, SQL, Python — Coursera)**  
-  A structured healthcare analytics project focusing on data integration, cleaning, and KPI insights.
-
- - **Customer Behavior Analysis (Python, SQL, Power BI)**  
-  Building a behavioral analytics model to understand customer patterns and improve decision‑making.
-  
- - **ShopEasy Marketing Analytics Dashboard (SQL, Python, Power BI)**  
-  Delivered a complete marketing analytics solution with dashboards, insights, and recommendations.
-
-### **HR Analytics Dashboard (Excel • Power BI)**  
-Turnover, retention, absenteeism, recruitment funnel, and DEI metrics automated for HR leadership.
-
-### **Accounts Receivable Dashboard (Power BI)**  
+Accounts Receivable Dashboard (Power BI)  
 Reduced manual Excel reporting by 90% through automated financial dashboards.
 
-### 🟡 Currently Working On
+Emergency Room Analytics Dashboard (Power BI)  
+Multi‑page dashboard analyzing patient volume, wait times, satisfaction, demographics, referrals, and admission trends.
 
+Certifications
+Workday HCM
 
-### 🔵 Future Projects
-- **NovaTech Workforce Planning Dashboard Project (Excel, Power BI, Executive Brief)**  
-  Workforce planning analysis including attrition, AI readiness, KPIs, and leadership recommendations.
+Workday Reporting & Prism Analytics (In Progress)
 
+ADP Payroll & Compensation & Benefits
 
+HRCI Human Resources Associate Professional
 
-📢 *Stay tuned — more analytics projectss coming soon!*
+Udacity Data Analyst
 
----
+Maven Analytics Power BI
 
-## 🎓 Certifications
+Graduate Certificate in Health Information Technology
 
-- Workday HCM (2026)  
-- Workday Reporting & Prism Analytics (In Progress)  
-- ADP Payroll & ADP Compensation & Benefits  
-- HRCI Human Resources Associate Professional  
-- Udacity Data Analyst  
-- Maven Analytics Power BI  
-- Graduate Certificate in Health Information Technology  
+Currently Learning
+Healthcare Data Analytics (Coursera)
 
----
+Microsoft Fabric
 
-## 🌱 Currently Learning from Coursera:
+Generative AI for Analytics
 
-- Healthcare Data Analytics by Skills Up 
-- Microsoft Fabric by Microsoft
-- Generative AI for analytics  
-- Python & Predicative Modeling 
+Python & Predictive Modeling
 
----
-
-## 🤝 Let’s Connect
-🔗 LinkedIn: linkedin.com/in/archana-ogirala  
-📧 Email: ogiralavs@gmail.com  
-
-I’m actively building projects in **HR Analytics, Healthcare Analytics People Analytics, HRIS, and Data Analytics** — and open to opportunities where I can make an impact through data.
+Connect
+LinkedIn: linkedin.com/in/archana-ogirala
+Email: ogiralavs@gmail.com
 
